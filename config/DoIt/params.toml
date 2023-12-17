@@ -9,7 +9,7 @@ version = "0.3.X"
 defaultTheme = "auto"
 # public git repo url only then enableGitInfo is true
 # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-gitRepo = "https://github.com/HEIGE-PCloud/DoIt"
+gitRepo = "https://github.com/bruneetrieuse/notion-hugo"
 # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
 # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
 fingerprint = ""
@@ -47,10 +47,10 @@ themeChangeMode = "select"
 logo = ""
 # title name
 # 标题名称
-name = "DoIt"
+name = "Brune et rieuse"
 # you can add extra information before the name (HTML format is supported), such as icons
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-pre = "<i class='far fa-edit fa-fw'></i>"
+pre = ""
 # you can add extra information after the name (HTML format is supported), such as icons
 # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
 post = ""
